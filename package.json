@@ -1,0 +1,26 @@
+{
+  "name": "webdemosmith",
+  "version": "1.0.0",
+  "description": "web demo for ande smith",
+  "main": "server.js",
+  "dependencies": {
+    "three": "^0.92.0"
+  },
+  "devDependencies": {
+    "three": "^0.92.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisWeldon/WebDemoSmith.git"
+  },
+  "author": "Chris Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisWeldon/WebDemoSmith/issues"
+  },
+  "homepage": "https://github.com/ChrisWeldon/WebDemoSmith#readme"
+}
